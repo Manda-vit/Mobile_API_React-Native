@@ -25,5 +25,13 @@
 <li>Botões de edição e adicionar repos só são utilizaveis com FakeAPI</li>
 
 <h2>Demonstração:</h2>
-![WhatsApp Image 2022-12-03 at 10 26 54 (1)](https://user-images.githubusercontent.com/93547712/205444234-8d738b7f-90cf-4f46-bd72-42d7743b7814.jpeg)
-![WhatsApp Image 2022-12-03 at 10 26 54](https://user-images.githubusercontent.com/93547712/205444237-4a438f23-cef5-4125-b558-dec1059baffb.jpeg)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/93547712/205444234-8d738b7f-90cf-4f46-bd72-42d7743b7814.jpeg" width="100px" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/93547712/205444237-4a438f23-cef5-4125-b558-dec1059baffb.jpeg" width="100px" />
+</div>
+
+
